@@ -1,7 +1,8 @@
-TIGERTALK README:
+Princeton Club Talk README:
 
-This is where stuff will go I guess?
+Here is a copy of the code for the Princeton Club Talk website, build by David Major, Uri Schwartz, and Michael Stambler '20 
+at Princeton University. Our website can be accessed at https://clubtalk.herokuapp.com/.
 
-Can I edit from sublime
+Our website was build using django, is hosted on Heroku, and features a Bootstrap-based frontend.
 
-gdsljkhndjls
+Feel free to check out our product and user guides for more information.
