@@ -1,6 +1,6 @@
 Princeton Club Talk README:
 
-Here is a copy of the code for the Princeton Club Talk website, build by David Major, Uri Schwartz, and Michael Stambler '20 
+Here is a copy of the code for the Princeton Club Talk website, built by David Major, Uri Schwartz, and Michael Stambler '20 
 at Princeton University. Our website can be accessed at https://clubtalk.herokuapp.com/.
 
 Our website was build using django, is hosted on Heroku, and features a Bootstrap-based frontend.
